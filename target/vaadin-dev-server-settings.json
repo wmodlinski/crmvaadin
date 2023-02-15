@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "C:/Users/walde/Dewelopment/Projects/flow-crm-tutorial/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/walde/Dewelopment/Projects/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/walde/Dewelopment/Projects/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\walde\\Dewelopment\\Projects\\flow-crm-tutorial\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\walde\\Dewelopment\\Projects\\flow-crm-tutorial\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "jarResourcesFolder": "C:/Users/walde/Dewelopment/Projects/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "flowcrmtutorial",
+  "clientServiceWorkerSource": "C:\\Users\\walde\\Dewelopment\\Projects\\flow-crm-tutorial\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'offline.html'"
+}
